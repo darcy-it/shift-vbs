@@ -1,3 +1,6 @@
+'
+' file: shift-loop.vbs
+'
 Set objShell = WScript.CreateObject("WScript.Shell")
 Do
 '   WScript.Echo "Shiftを押す"
